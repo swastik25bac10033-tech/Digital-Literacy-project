@@ -1,8 +1,11 @@
 Cybercrime Case Study – UPI Fraud
 
-UPI fraud is one of the most common cybercrimes in India today. It usually happens when a person is tricked into sharing sensitive information or unknowingly approving a payment request. In a typical case, a fraudster may call or message a student pretending to be a bank official, delivery agent, or customer support executive. They may send a fake payment link or request and ask the user to click on it or enter their UPI PIN.
+UPI fraud is one of the most common cybercrimes in India today. It usually happens when a person is tricked into sharing sensitive information or unknowingly approving a payment request.
+In a typical case, a fraudster may call or message a student pretending to be a bank official, delivery agent, or customer support executive. They may send a fake payment link or request
+and ask the user to click on it or enter their UPI PIN.
 
-Many people think they are receiving money, but instead they end up approving a payment. In some cases, fraudsters also create fake websites or apps that look similar to real ones and collect personal details like bank account number, OTP, or PIN.
+Many people think they are receiving money, but instead they end up approving a payment. In some cases, fraudsters also create fake websites or apps that look similar to real ones and 
+collect personal details like bank account number, OTP, or PIN.
 
 Students and young users are often targeted because they frequently use online payment apps. The consequences can include loss of money, stress, and difficulty in recovering the amount.
 
